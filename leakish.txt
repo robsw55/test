@@ -1,0 +1,4 @@
+"AadClientId": "18b8ff68-1924-4ef4-9582-3091393d0c36",
+"AadSecret": "riZ8Q~RDq_z6ibH1kheygTLI8kyH9QfqKLj1WcFK",
+"AadTenantDomain": "vsbworld.onmicrosoft.com",
+"AadTenantId": "0b8a2e58-7b30-4a08-bab7-d75559e0e3a5",
